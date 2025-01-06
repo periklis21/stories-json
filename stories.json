@@ -1,27 +1,28 @@
 [
-    {
-        "Title": "Ο Μαγικός Κόσμος",
-        "Content": "Μια φορά κι έναν καιρό, υπήρχε ένας μαγικός κόσμος γεμάτος περιπέτειες.",
-        "Category": "Φαντασίας"
-    },
-    {
-        "Title": "Η Περιπέτεια του Ήρωα",
-        "Content": "Σε ένα μακρινό βασίλειο, ένας ήρωας ξεκίνησε ένα μεγάλο ταξίδι.",
-        "Category": "Δράσης"
-    },
-    {
-        "Title": "Το Αστείο του Κλόουν",
-        "Content": "Μια μέρα στο τσίρκο, ο κλόουν έκανε το κοινό να γελάσει με τα αστεία του.",
-        "Category": "Κωμικές"
-    },
-    {
-        "Title": "Το Μυστήριο του Δάσους",
-        "Content": "Στο σκοτεινό δάσος, κρυβόταν ένα μεγάλο μυστήριο που έπρεπε να λυθεί.",
-        "Category": "Φαντασίας"
-    },
-    {
-        "Title": "Η Μάχη των Ηρώων",
-        "Content": "Δύο ήρωες συναντήθηκαν σε μια επική μάχη που καθόρισε τη μοίρα του κόσμου.",
-        "Category": "Δράσης"
-    }
+  {
+    "Title": "The Magical World",
+    "Content": "Once upon a time, there was a magical world full of adventures.",
+    "Category": "Fantasy"
+  },
+  {
+    "Title": "The Hero's Adventure",
+    "Content": "In a distant kingdom, a hero embarked on a great journey.",
+    "Category": "Action"
+  },
+  {
+    "Title": "The Clown's Joke",
+    "Content": "One day at the circus, the clown made the audience laugh with his jokes.",
+    "Category": "Comedy"
+  },
+  {
+    "Title": "The Mystery of the Forest",
+    "Content": "In the dark forest, a great mystery was hidden that had to be solved.",
+    "Category": "Fantasy"
+  },
+  {
+    "Title": "The Battle of Heroes",
+    "Content": "Two heroes met in an epic battle that determined the fate of the world.",
+    "Category": "Action"
+  }
 ]
+
